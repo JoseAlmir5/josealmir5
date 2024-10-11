@@ -3,6 +3,8 @@
 - 💻 Desenvolvedor Front-end
 - 📚 Cursando Analise e desenvolvimento de sistemas
 - 🌱 Estudando e me aprofundando em JavaScript
+  
+ Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Gran de Curitiba. Atualmente estudo para me tornar Desenvolvedor Front-end focando em JavaScript. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealmir5&show_icons=true&theme=calm)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealmir5&layout=compact&theme=calm)

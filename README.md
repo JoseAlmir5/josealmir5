@@ -1,8 +1,6 @@
 ## Seja Bem-Vindo ao meu perfil! Venha me conhecer um pouco.
 
-- 💻 Desenvolvedor Front-end
-- 📚 Cursando Analise e desenvolvimento de sistemas
-- 🌱 Estudando e me aprofundando em JavaScript
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealmir5&show_icons=true&theme=calm)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealmir5&layout=compact&theme=calm)

@@ -14,5 +14,4 @@
 <img height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>        
 
-![Snake animation]([https://github.com/JoseAlmir5/josealmir5/edit/main/README.md](https://github.com/JoseAlmir5))
 

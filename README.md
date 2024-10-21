@@ -1,4 +1,4 @@
-## Seja Bem-Vindo ao meu perfil! Venha me conhecer um pouco.
+## Seja Bem-Vindo ao meu perfil! ✌ Venha me conhecer um pouco.
 
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/0291b249-78d3-44bb-9f40-97596bcbb600)
 

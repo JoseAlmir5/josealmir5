@@ -3,11 +3,11 @@
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/0291b249-78d3-44bb-9f40-97596bcbb600)
 
 
-- 💻 Desenvolvedor Front-end
+- 💻 Desenvolvedor Backend
 - 📚 Cursando Analise e desenvolvimento de sistemas
-- 🌱 Estudando e me aprofundando em JavaScript
+- 🌱 Estudando e me aprofundando em Python e Java
   
- Estudante na Gran faculdade de Curitiba. Atualmente estudo para me tornar Desenvolvedor Front-end. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+ Estudante na Unip de Limeira. Atualmente estudo para me tornar Desenvolvedor Backend. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealmir5&show_icons=true&theme=calm)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealmir5&layout=compact&theme=calm)
@@ -16,6 +16,7 @@
 <div>
 <img height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 <img height="auto" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>        

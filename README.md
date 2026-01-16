@@ -5,7 +5,7 @@
 
 - 💻 Desenvolvedor Backend
 - 📚 Cursando Analise e desenvolvimento de sistemas
-- 🌱 Estudando e me aprofundando em Python e Java
+- ☕ Estudando e me aprofundando em Java
   
  Estudante na Unip de Limeira. Atualmente estudo para me tornar Desenvolvedor Backend. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 

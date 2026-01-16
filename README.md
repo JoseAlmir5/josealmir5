@@ -9,8 +9,8 @@
   
  Estudante na Unip de Limeira. Atualmente estudo para me tornar Desenvolvedor Backend. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealmir5&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealmir5&layout=compact&theme=calm)
+ [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealmir5&show_icons=true&theme=calm)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealmir5&layout=compact&theme=calm)
 
 <div>
 <img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />

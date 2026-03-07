@@ -7,7 +7,7 @@
 - 📚 Cursando Analise e desenvolvimento de sistemas
 - ☕ Estudando e me aprofundando em Java
   
- Estudante na Unip de Limeira. Atualmente estudo para me tornar Desenvolvedor Backend. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+ Estudante de Analise e Desenvolvimento de Sistemas (Unip de Limeira). Atualmente estudo para me tornar Desenvolvedor Backend. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 
 <div>

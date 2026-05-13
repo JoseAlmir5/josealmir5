@@ -7,7 +7,7 @@
 - 📚 Cursando Analise e desenvolvimento de sistemas
 - 👨‍💻 Estudando e me aprofundando em JavaScript
   
- Estudante de Analise e Desenvolvimento de Sistemas. Atualmente estudo para me tornar Desenvolvedor Front-End mas desejo me tornar Full-Stack. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+ Estudante de Analise e Desenvolvimento de Sistemas. Atualmente estudo para me tornar Desenvolvedor Back-End. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 
 <p align="left">

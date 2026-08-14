@@ -5,7 +5,7 @@
 
 - 💻 Backend
 - 📚 Cursando Analise e desenvolvimento de sistemas
-- 👨‍💻 Estudando e me aprofundando em JavaScript
+- 👨‍💻 Estudando e me aprofundando em Java!
   
  Estudante de Analise e Desenvolvimento de Sistemas. Atualmente estudo para me tornar Desenvolvedor Back-End. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Curto muito aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
